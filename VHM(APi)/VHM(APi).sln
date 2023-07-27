@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VHM(APi)", "VHM(APi)\VHM(APi).csproj", "{342E2BD9-D383-467B-AA7D-39518CEBFBA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VHW.BLL", "VHW.BLL\VHW.BLL.csproj", "{83387468-A859-4D1E-969F-9018572D8E64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VHM.DAL", "VHM.DAL\VHM.DAL.csproj", "{8390FB4E-F974-4F14-B44D-599CB65CFBDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{342E2BD9-D383-467B-AA7D-39518CEBFBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342E2BD9-D383-467B-AA7D-39518CEBFBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342E2BD9-D383-467B-AA7D-39518CEBFBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342E2BD9-D383-467B-AA7D-39518CEBFBA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83387468-A859-4D1E-969F-9018572D8E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83387468-A859-4D1E-969F-9018572D8E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83387468-A859-4D1E-969F-9018572D8E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83387468-A859-4D1E-969F-9018572D8E64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8390FB4E-F974-4F14-B44D-599CB65CFBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8390FB4E-F974-4F14-B44D-599CB65CFBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8390FB4E-F974-4F14-B44D-599CB65CFBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8390FB4E-F974-4F14-B44D-599CB65CFBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {946E2C68-0FB2-4632-B991-CD6D70396ADD}
+	EndGlobalSection
+EndGlobal

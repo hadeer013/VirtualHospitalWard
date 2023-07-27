@@ -1,0 +1,84 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\files\Imgs\7d004d59-769f-4082-9dca-eb28b50cd56estretched-1366-768-1144158.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>VHM(APi)</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/VHM(APi)</BasePath>
+      <RelativePath>files\Imgs\7d004d59-769f-4082-9dca-eb28b50cd56estretched-1366-768-1144158.jpg</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\files\Imgs\7d004d59-769f-4082-9dca-eb28b50cd56estretched-1366-768-1144158.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\files\Imgs\7d3212c5-5c45-4b5a-a982-690ea8ad8432wallpaperflare.com_wallpaper (3).jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>VHM(APi)</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/VHM(APi)</BasePath>
+      <RelativePath>files\Imgs\7d3212c5-5c45-4b5a-a982-690ea8ad8432wallpaperflare.com_wallpaper (3).jpg</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\files\Imgs\7d3212c5-5c45-4b5a-a982-690ea8ad8432wallpaperflare.com_wallpaper (3).jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\files\Imgs\9ecc4659-f927-4cdf-a3f6-eb7459906520wallpaperflare.com_wallpaper (3).jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>VHM(APi)</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/VHM(APi)</BasePath>
+      <RelativePath>files\Imgs\9ecc4659-f927-4cdf-a3f6-eb7459906520wallpaperflare.com_wallpaper (3).jpg</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\files\Imgs\9ecc4659-f927-4cdf-a3f6-eb7459906520wallpaperflare.com_wallpaper (3).jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\files\Imgs\a9fd1256-3d86-4407-ba1e-181037485b24wallpaperflare.com_wallpaper (3).jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>VHM(APi)</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/VHM(APi)</BasePath>
+      <RelativePath>files\Imgs\a9fd1256-3d86-4407-ba1e-181037485b24wallpaperflare.com_wallpaper (3).jpg</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\files\Imgs\a9fd1256-3d86-4407-ba1e-181037485b24wallpaperflare.com_wallpaper (3).jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\files\Imgs\b43ee5e4-ec73-48ea-8340-725b71148c1bstretched-1366-768-1144158.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>VHM(APi)</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/VHM(APi)</BasePath>
+      <RelativePath>files\Imgs\b43ee5e4-ec73-48ea-8340-725b71148c1bstretched-1366-768-1144158.jpg</RelativePath>
+      <AssetKind></AssetKind>
+      <AssetMode></AssetMode>
+      <AssetRole></AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\files\Imgs\b43ee5e4-ec73-48ea-8340-725b71148c1bstretched-1366-768-1144158.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAASpgV//nX/UyogUkBt8zrbwAAAAACAAAAAAAQZgAAAAEAACAAAAAMesR2CVknlX0z9TGlacm+i9sMOX5+yZ6CxOjO6v/ZKQAAAAAOgAAAAAIAACAAAABwLROnhfWAFPnGK3v/nxoQniwqfmojgMaM3p/+pCVUaiAAAABPoJyOsyjNZ3Ffhyk82OyS6BJHYHTfFr1d7qdC+tfYjUAAAABm4ZlvG61E3fWW94mRGmWwVM0A9TZIeaBJqk+mey03gIe4KdBTlkcIj+HDECl63kFax6BbbRYV1q3ZT36tIwFj</EncryptedPassword>
+    <_PublishTargetUrl>ftp://CuR.somee.com/www.CuR.somee.com</_PublishTargetUrl>
+    <History>True|2023-06-20T21:34:30.6582133Z;True|2023-06-20T23:59:52.4401677+03:00;False|2023-06-20T23:45:03.3599172+03:00;True|2023-06-08T18:20:41.8335210+03:00;True|2023-06-08T17:55:53.7780552+03:00;True|2023-05-19T17:26:34.7057321+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>05/05/2023 16:20:05</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>06/21/2023 00:22:16</publishTime>
+    </File>
+    <File Include="AutoMapper.dll">
+      <publishTime>09/30/2022 12:45:38</publishTime>
+    </File>
+    <File Include="AutoMapper.Extensions.Microsoft.DependencyInjection.dll">
+      <publishTime>09/30/2022 13:07:30</publishTime>
+    </File>
+    <File Include="ca/Hangfire.Core.resources.dll">
+      <publishTime>01/31/2023 08:43:24</publishTime>
+    </File>
+    <File Include="de/Hangfire.Core.resources.dll">
+      <publishTime>01/31/2023 08:43:24</publishTime>
+    </File>
+    <File Include="Enums.NET.dll">
+      <publishTime>01/29/2021 20:45:00</publishTime>
+    </File>
+    <File Include="es/Hangfire.Core.resources.dll">
+      <publishTime>01/31/2023 08:43:24</publishTime>
+    </File>
+    <File Include="fa/Hangfire.Core.resources.dll">
+      <publishTime>01/31/2023 08:43:24</publishTime>
+    </File>
+    <File Include="fr/Hangfire.Core.resources.dll">
+      <publishTime>01/31/2023 08:43:24</publishTime>
+    </File>
+    <File Include="Hangfire.AspNetCore.dll">
+      <publishTime>01/31/2023 08:43:44</publishTime>
+    </File>
+    <File Include="Hangfire.Core.dll">
+      <publishTime>01/31/2023 08:44:02</publishTime>
+    </File>
+    <File Include="Hangfire.SqlServer.dll">
+      <publishTime>01/31/2023 08:44:04</publishTime>
+    </File>
+    <File Include="JWT.dll">
+      <publishTime>05/21/2020 23:05:12</publishTime>
+    </File>
+    <File Include="Microsoft.AspNet.SignalR.Core.dll">
+      <publishTime>01/14/2022 05:40:14</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>04/16/2022 01:20:18</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Cryptography.Internal.dll">
+      <publishTime>04/16/2022 01:16:36</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Cryptography.KeyDerivation.dll">
+      <publishTime>04/16/2022 01:18:38</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll">
+      <publishTime>04/16/2022 01:20:14</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.dll">
+      <publishTime>08/26/2020 02:24:48</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/25/2020 23:34:56</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.SNI.pdb">
+      <publishTime>08/25/2020 23:31:56</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>04/13/2022 01:29:32</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>04/13/2022 01:29:46</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>04/13/2022 01:29:56</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <publishTime>04/13/2022 01:30:00</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>10/23/2021 02:48:30</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>06/15/2021 22:12:46</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Identity.Core.dll">
+      <publishTime>04/16/2022 01:19:06</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Identity.Stores.dll">
+      <publishTime>04/16/2022 01:20:12</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Options.dll">
+      <publishTime>10/23/2021 02:50:00</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Primitives.dll">
+      <publishTime>10/23/2021 02:50:40</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.dll">
+      <publishTime>05/18/2020 23:11:54</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>06/30/2020 04:04:58</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>06/30/2020 04:05:58</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>06/30/2020 04:06:48</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>06/30/2020 04:13:54</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>06/30/2020 04:09:50</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 23:14:12</publishTime>
+    </File>
+    <File Include="Microsoft.Owin.dll">
+      <publishTime>01/13/2014 19:11:08</publishTime>
+    </File>
+    <File Include="Microsoft.Owin.Security.dll">
+      <publishTime>01/13/2014 19:11:08</publishTime>
+    </File>
+    <File Include="nb/Hangfire.Core.resources.dll">
+      <publishTime>01/31/2023 08:43:24</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>11/09/2019 03:56:44</publishTime>
+    </File>
+    <File Include="nl/Hangfire.Core.resources.dll">
+      <publishTime>01/31/2023 08:43:24</publishTime>
+    </File>
+    <File Include="OpenTok.dll">
+      <publishTime>03/09/2023 13:18:42</publishTime>
+    </File>
+    <File Include="Owin.dll">
+      <publishTime>11/13/2012 15:19:34</publishTime>
+    </File>
+    <File Include="pt-BR/Hangfire.Core.resources.dll">
+      <publishTime>01/31/2023 08:43:24</publishTime>
+    </File>
+    <File Include="pt-PT/Hangfire.Core.resources.dll">
+      <publishTime>01/31/2023 08:43:24</publishTime>
+    </File>
+    <File Include="pt/Hangfire.Core.resources.dll">
+      <publishTime>01/31/2023 08:43:24</publishTime>
+    </File>
+    <File Include="sni.dll">
+      <publishTime>07/12/2017 14:24:22</publishTime>
+    </File>
+    <File Include="sv/Hangfire.Core.resources.dll">
+      <publishTime>01/31/2023 08:43:24</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>09/23/2020 15:47:20</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>09/23/2020 15:47:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>09/23/2020 15:47:24</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>11/15/2019 11:37:04</publishTime>
+    </File>
+    <File Include="System.Data.SqlClient.dll">
+      <publishTime>07/19/2017 13:01:32</publishTime>
+    </File>
+    <File Include="System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>12/12/2020 05:40:42</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>06/30/2020 04:03:46</publishTime>
+    </File>
+    <File Include="System.Runtime.Caching.dll">
+      <publishTime>11/15/2019 11:53:44</publishTime>
+    </File>
+    <File Include="System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/23/2021 02:40:56</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>11/15/2019 11:53:46</publishTime>
+    </File>
+    <File Include="tr-TR/Hangfire.Core.resources.dll">
+      <publishTime>01/31/2023 08:43:24</publishTime>
+    </File>
+    <File Include="VHM%28APi%29.deps.json">
+      <publishTime>06/21/2023 00:27:39</publishTime>
+    </File>
+    <File Include="VHM%28APi%29.dll">
+      <publishTime>06/21/2023 00:27:38</publishTime>
+    </File>
+    <File Include="VHM%28APi%29.exe">
+      <publishTime>06/21/2023 00:27:38</publishTime>
+    </File>
+    <File Include="VHM%28APi%29.pdb">
+      <publishTime>06/21/2023 00:27:38</publishTime>
+    </File>
+    <File Include="VHM%28APi%29.runtimeconfig.json">
+      <publishTime>05/19/2023 17:19:25</publishTime>
+    </File>
+    <File Include="VHM.DAL.dll">
+      <publishTime>06/20/2023 23:36:22</publishTime>
+    </File>
+    <File Include="VHM.DAL.pdb">
+      <publishTime>06/20/2023 23:36:22</publishTime>
+    </File>
+    <File Include="VHW.BLL.dll">
+      <publishTime>06/20/2023 23:36:23</publishTime>
+    </File>
+    <File Include="VHW.BLL.pdb">
+      <publishTime>06/20/2023 23:36:23</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>06/21/2023 00:27:39</publishTime>
+    </File>
+    <File Include="wwwroot/files/Imgs/7d004d59-769f-4082-9dca-eb28b50cd56estretched-1366-768-1144158.jpg">
+      <publishTime>05/05/2023 16:20:06</publishTime>
+    </File>
+    <File Include="wwwroot/files/Imgs/7d3212c5-5c45-4b5a-a982-690ea8ad8432wallpaperflare.com_wallpaper %283%29.jpg">
+      <publishTime>05/05/2023 16:20:06</publishTime>
+    </File>
+    <File Include="wwwroot/files/Imgs/9ecc4659-f927-4cdf-a3f6-eb7459906520wallpaperflare.com_wallpaper %283%29.jpg">
+      <publishTime>05/05/2023 16:20:06</publishTime>
+    </File>
+    <File Include="wwwroot/files/Imgs/a9fd1256-3d86-4407-ba1e-181037485b24wallpaperflare.com_wallpaper %283%29.jpg">
+      <publishTime>05/05/2023 16:20:06</publishTime>
+    </File>
+    <File Include="wwwroot/files/Imgs/b43ee5e4-ec73-48ea-8340-725b71148c1bstretched-1366-768-1144158.jpg">
+      <publishTime>05/05/2023 16:20:06</publishTime>
+    </File>
+    <File Include="zh-TW/Hangfire.Core.resources.dll">
+      <publishTime>01/31/2023 08:43:24</publishTime>
+    </File>
+    <File Include="zh/Hangfire.Core.resources.dll">
+      <publishTime>01/31/2023 08:43:24</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

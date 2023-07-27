@@ -1,0 +1,15 @@
+C:\Users\smc\source\repos\VHM(APi)\VHM.DAL\bin\Release\net5.0\VHM.DAL.deps.json
+C:\Users\smc\source\repos\VHM(APi)\VHM.DAL\bin\Release\net5.0\VHM.DAL.runtimeconfig.json
+C:\Users\smc\source\repos\VHM(APi)\VHM.DAL\bin\Release\net5.0\VHM.DAL.runtimeconfig.dev.json
+C:\Users\smc\source\repos\VHM(APi)\VHM.DAL\bin\Release\net5.0\VHM.DAL.dll
+C:\Users\smc\source\repos\VHM(APi)\VHM.DAL\bin\Release\net5.0\VHM.DAL.pdb
+C:\Users\smc\source\repos\VHM(APi)\VHM.DAL\obj\Release\net5.0\VHM.DAL.csproj.AssemblyReference.cache
+C:\Users\smc\source\repos\VHM(APi)\VHM.DAL\obj\Release\net5.0\VHM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smc\source\repos\VHM(APi)\VHM.DAL\obj\Release\net5.0\VHM.DAL.AssemblyInfoInputs.cache
+C:\Users\smc\source\repos\VHM(APi)\VHM.DAL\obj\Release\net5.0\VHM.DAL.AssemblyInfo.cs
+C:\Users\smc\source\repos\VHM(APi)\VHM.DAL\obj\Release\net5.0\VHM.DAL.csproj.CoreCompileInputs.cache
+C:\Users\smc\source\repos\VHM(APi)\VHM.DAL\obj\Release\net5.0\VHM.DAL.dll
+C:\Users\smc\source\repos\VHM(APi)\VHM.DAL\obj\Release\net5.0\refint\VHM.DAL.dll
+C:\Users\smc\source\repos\VHM(APi)\VHM.DAL\obj\Release\net5.0\VHM.DAL.pdb
+C:\Users\smc\source\repos\VHM(APi)\VHM.DAL\obj\Release\net5.0\VHM.DAL.genruntimeconfig.cache
+C:\Users\smc\source\repos\VHM(APi)\VHM.DAL\obj\Release\net5.0\ref\VHM.DAL.dll

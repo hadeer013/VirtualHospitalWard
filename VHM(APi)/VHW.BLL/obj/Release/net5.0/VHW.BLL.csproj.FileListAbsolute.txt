@@ -1,0 +1,15 @@
+C:\Users\smc\source\repos\VHM(APi)\VHW.BLL\bin\Release\net5.0\VHW.BLL.deps.json
+C:\Users\smc\source\repos\VHM(APi)\VHW.BLL\bin\Release\net5.0\VHW.BLL.dll
+C:\Users\smc\source\repos\VHM(APi)\VHW.BLL\bin\Release\net5.0\VHW.BLL.pdb
+C:\Users\smc\source\repos\VHM(APi)\VHW.BLL\bin\Release\net5.0\VHM.DAL.dll
+C:\Users\smc\source\repos\VHM(APi)\VHW.BLL\bin\Release\net5.0\VHM.DAL.pdb
+C:\Users\smc\source\repos\VHM(APi)\VHW.BLL\obj\Release\net5.0\VHW.BLL.csproj.AssemblyReference.cache
+C:\Users\smc\source\repos\VHM(APi)\VHW.BLL\obj\Release\net5.0\VHW.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smc\source\repos\VHM(APi)\VHW.BLL\obj\Release\net5.0\VHW.BLL.AssemblyInfoInputs.cache
+C:\Users\smc\source\repos\VHM(APi)\VHW.BLL\obj\Release\net5.0\VHW.BLL.AssemblyInfo.cs
+C:\Users\smc\source\repos\VHM(APi)\VHW.BLL\obj\Release\net5.0\VHW.BLL.csproj.CoreCompileInputs.cache
+C:\Users\smc\source\repos\VHM(APi)\VHW.BLL\obj\Release\net5.0\VHW.BLL.csproj.CopyComplete
+C:\Users\smc\source\repos\VHM(APi)\VHW.BLL\obj\Release\net5.0\VHW.BLL.dll
+C:\Users\smc\source\repos\VHM(APi)\VHW.BLL\obj\Release\net5.0\refint\VHW.BLL.dll
+C:\Users\smc\source\repos\VHM(APi)\VHW.BLL\obj\Release\net5.0\VHW.BLL.pdb
+C:\Users\smc\source\repos\VHM(APi)\VHW.BLL\obj\Release\net5.0\ref\VHW.BLL.dll
